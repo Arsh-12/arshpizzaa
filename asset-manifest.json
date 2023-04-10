@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/arshpizzaa/static/css/main.eb0571eb.css",
+    "main.js": "/arshpizzaa/static/js/main.23666360.js",
+    "static/media/p6.png": "/arshpizzaa/static/media/p6.cb2861026215681e0d64.png",
+    "static/media/p3.png": "/arshpizzaa/static/media/p3.b696e9627d9cf62247a8.png",
+    "static/media/p7.png": "/arshpizzaa/static/media/p7.318eddfbc6dd9cf90764.png",
+    "static/media/emptyCart.png": "/arshpizzaa/static/media/emptyCart.b3dac5b412a667dc63e4.png",
+    "static/media/p2.png": "/arshpizzaa/static/media/p2.9d23075d65de7c85102c.png",
+    "static/media/p8.png": "/arshpizzaa/static/media/p8.0b77482c8ca95a16876a.png",
+    "static/media/p9.png": "/arshpizzaa/static/media/p9.6fcf3445728ff371b84f.png",
+    "static/media/Pizza.png": "/arshpizzaa/static/media/Pizza.b439f278528ce8892741.png",
+    "static/media/p5.png": "/arshpizzaa/static/media/p5.041ac8c41942ba5af6ad.png",
+    "static/media/p1.png": "/arshpizzaa/static/media/p1.86894cd3d6ffa4745a2f.png",
+    "static/media/cart.jpg": "/arshpizzaa/static/media/cart.1f80a9f4231d9668545e.jpg",
+    "static/media/Pizzalogo.png": "/arshpizzaa/static/media/Pizzalogo.d7953ee7571dc4e78b02.png",
+    "index.html": "/arshpizzaa/index.html",
+    "main.eb0571eb.css.map": "/arshpizzaa/static/css/main.eb0571eb.css.map",
+    "main.23666360.js.map": "/arshpizzaa/static/js/main.23666360.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb0571eb.css",
+    "static/js/main.23666360.js"
+  ]
+}
