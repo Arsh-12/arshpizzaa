@@ -2,7 +2,7 @@
 const Product4 = () => {
     return (
       <div className="text-center">
-        <img src="/images/p3.png" alt="pizza" width={200} />
+        <img sr="https://w7.pngwing.com/pngs/56/985/png-transparent-pizza-margherita-sushi-pizza-pizza-delivery-pizza-thumbnail.png" alt="pizza" width={200} />
         <h2 className="font-bold">Margherita</h2>
         <span className="rounded-full bg-gray-200  px-3">Small</span>
   

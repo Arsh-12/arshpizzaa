@@ -8,10 +8,10 @@ import Cart from "./pages/Cart";
 const App = () => {
   return (
     <>
-      <Router>
+      <Router basename="arsh_pizza">
         <Navbar />
         <Routes>
-          <Route path="/" Component={Home}></Route>
+          <Route path="/" Component={Home} ></Route>
 
           <Route path="/products" Component={Products}></Route>
           <Route path="/cart" Component={Cart}></Route>

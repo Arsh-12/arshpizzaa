@@ -3,7 +3,7 @@ const Product2 =()=>{
     return(
 
         <div className="text-center">
-      <img src="/images/p1.png" alt="pizza" width={170} />
+      <img src="https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="pizza" width={170} />
       <h2 className="font-bold">Pepperoni</h2>
       <span className="rounded-full bg-gray-200  px-3">Small</span>
 

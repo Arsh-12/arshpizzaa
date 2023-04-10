@@ -1,4 +1,5 @@
 import ProductsList from "../Components/ProductsList";
+import Pizza from "../images/Pizza.png"
 
 const Home = () => {
   return (
@@ -17,7 +18,7 @@ const Home = () => {
 
         <div style={{marginTop:30 , marginRight:50}}>
 
-            <img width={450} src="/images/Pizza.png" alt="Pizza-Image"></img>
+            <img width={450} src={Pizza} alt="Pizza-Image"></img>
         </div>
       </div>
     </div>
